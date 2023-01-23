@@ -6,7 +6,7 @@
     <string name="tracks">Треки</string>
     <string name="queued">в очереди</string>
     <string name="resize_zoom">Приблизить</string>
-    <string name="download">Скачать</string>
+    <string name="download">Загрузить</string>
     <string name="search">Поиск</string>
     <string name="resize_fill">Заполнить</string>
     <string name="download_failed">Скачать неудачный</string>
@@ -29,7 +29,7 @@
     <string name="home_main_poster_img_des">Главный плакат</string>
     <string name="home_next_random_img_des">Следующий случайный</string>
     <string name="go_back_img_des">Вернуться</string>
-    <string name="home_change_provider_img_des">Сменить поставщика</string>
+    <string name="home_change_provider_img_des">Изменить Провайдер</string>
     <string name="preview_background_img_des">Фон предпросмотр</string>
     <string name="player_speed_text_format" formatted="true">Скорость (%.2fx)</string>
     <string name="rated_format" formatted="true">Оценили: %.1f</string>
@@ -39,7 +39,7 @@
     <string name="app_name">CloudStream</string>
     <string name="action_remove_from_bookmarks">Убирать</string>
     <string name="app_dub_sub_episode_text_format" formatted="true">%s Ep %d</string>
-    <string name="play_with_app_name">Проиграть с CloudStream</string>
+    <string name="play_with_app_name">Смотреть с CloudStream</string>
     <string name="title_home">Главная</string>
     <string name="title_search">Поиск</string>
     <string name="title_downloads">Загрузки</string>
@@ -50,7 +50,7 @@
     <string name="episode_more_options_des">Дополнительные опции</string>
     <string name="next_episode">Следующий серия</string>
     <string name="result_tags">Жанры</string>
-    <string name="result_share">Делиться</string>
+    <string name="result_share">Поделиться</string>
     <string name="result_open_in_browser">Открыть в браузер</string>
     <string name="skip_loading">Скип загрузка</string>
     <string name="type_watching">Смотрю</string>
@@ -60,7 +60,7 @@
     <string name="type_plan_to_watch">План по смотреть</string>
     <string name="type_none">Никто</string>
     <string name="type_re_watching">Пересмотрю</string>
-    <string name="play_movie_button">Проиграть фильм</string>
+    <string name="play_movie_button">Смотреть фильм</string>
     <string name="play_trailer_button">Проиграть трейлер</string>
     <string name="play_livestream_button">Проиграть Livestream</string>
     <string name="pick_source">Источники</string>
@@ -77,8 +77,8 @@
     <string name="home_info">Инфо</string>
     <string name="update_started">Обновление началось</string>
     <string name="home_expanded_hide">Прятать</string>
-    <string name="home_play">Проиграть</string>
-    <string name="home_more_info">Подробнее инфо</string>
+    <string name="home_play">Смотреть</string>
+    <string name="home_more_info">Подробнее</string>
     <string name="filter_bookmarks">Фильтр закладки</string>
     <string name="error_bookmarks_text">Закладки</string>
     <string name="sort_apply">Наносить</string>
@@ -108,7 +108,7 @@
     <string name="subs_auto_select_language">Автовыбор языка</string>
     <string name="subs_download_languages">Скачать языки</string>
     <string name="subs_subtitle_languages">Язык субтитров</string>
-    <string name="subs_hold_to_reset_to_default">Удерживайте чтобы сбросить по умолчанию</string>
+    <string name="subs_hold_to_reset_to_default">Удерживайте, чтобы сбросить по умолчанию</string>
     <string name="error_loading_links_toast">Ошибка загрузки ссылок</string>
     <string name="stream">Поток</string>
     <string name="subs_font">Шрифт</string>
@@ -120,9 +120,9 @@
     <string name="popup_pause_download">Приостановить скачать</string>
     <string name="pref_disable_acra">Отключить автоматическое информирование об ошибках</string>
     <string name="subs_import_text" formatted="true">Импортируйте шрифты поместив их в %s</string>
-    <string name="continue_watching">Продолжать смотрю</string>
+    <string name="continue_watching">Продолжить смотреть</string>
     <string name="action_remove_watching">Удалите</string>
-    <string name="action_open_watching">Дополнительная инфо</string>
+    <string name="action_open_watching">Подробнее</string>
     <string name="vpn_might_be_needed">Для корректной работы этого поставщика может потребоваться VPN</string>
     <string name="vpn_torrent">Этот поставщика - торрент, рекомендуется VPN</string>
     <string name="provider_info_meta">Метаданные не предоставляются сайтом, загрузка видео будет неудачной, если они не существуют на сайте.</string>
@@ -169,7 +169,7 @@
     <string name="subs_default_reset_toast">Восстановить к изначальному значению</string>
     <string name="acra_report_toast">Извините, приложение прекратило работу. Анонимный отчет об ошибке был отправлен разработчикам</string>
     <string name="episode">Эпизод</string>
-    <string name="episodes">Эпизоды</string>
+    <string name="episodes">Эпизодов</string>
     <string name="season_short">С</string>
     <string name="episode_short">Э</string>
     <string name="no_episodes_found">Эпизоды не найдены</string>
@@ -200,4 +200,40 @@
     <string name="automatic_plugin_download_summary">Автоматически загружать еще не установленные плагины из добавленных репозиториев.</string>
     <string name="discord">Присоединится в Discord</string>
     <string name="free_storage">Бесплатно</string>
+    <string name="next_episode_time_min_format" formatted="true">%d мин.</string>
+    <string name="next_episode_time_hour_format" formatted="true">%d ч. %d мин.</string>
+    <string name="movies">Фильмы</string>
+    <string name="cartoons_singular">Мультфильм</string>
+    <string name="tv_series">Сериалы</string>
+    <string name="asian_drama">Азиатские драмы</string>
+    <string name="other_singular">Видео</string>
+    <string name="cartoons">Мультфильмы</string>
+    <string name="documentaries">Документальные фильмы</string>
+    <string name="ova">OVA</string>
+    <string name="nsfw">NSFW</string>
+    <string name="nsfw_singular">NSFW</string>
+    <string name="movies_singular">Фильм</string>
+    <string name="tv_series_singular">Серия</string>
+    <string name="torrent_singular">Торрент</string>
+    <string name="documentaries_singular">Документальный</string>
+    <string name="asian_drama_singular">Азиатская драма</string>
+    <string name="category_general">Общий</string>
+    <string name="category_providers">Поставщики</string>
+    <string name="category_ui">Макет</string>
+    <string name="pref_category_extensions">Расширения</string>
+    <string name="category_player">Плеер</string>
+    <string name="backup_settings">Резервное копирование данных</string>
+    <string name="bug_report_settings_off">Отправлять данные только при вылетах</string>
+    <string name="used_storage">Использовано</string>
+    <string name="double_tap_to_pause_settings">Двойное нажатие для паузы</string>
+    <string name="double_tap_to_seek_settings_des">Коснитесь дважды правой или левой стороны для поиска вперед или назад</string>
+    <string name="double_tap_to_pause_settings_des">Нажмите в центре для паузы</string>
+    <string name="use_system_brightness_settings">Использовать системную яркость</string>
+    <string name="episode_sync_settings_des">Автоматически синхронизировать текущий прогресс эпизода</string>
+    <string name="backup_failed_error_format">Ошибка резервного копирования %s</string>
+    <string name="restore_settings">Восстановить данные из резервной копии</string>
+    <string name="show_fillers_settings">Показывать Филлер эпизоды для аниме</string>
+    <string name="kitsu_settings">Показывать афиши из Kitsu</string>
+    <string name="apk_installer_settings_des">Некоторые телефоны не поддерживают новые установщики. Попробуйте использовать legacy (старый) вариант, если обновления не устанавливаются.</string>
+    <string name="status_ongoing">Выходит</string>
 </resources>
